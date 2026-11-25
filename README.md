@@ -1,6 +1,10 @@
 # IndoBERT Sentiment Analysis for Digital Education Quality Evaluation
 
-Research repository for the 2026 National Seminar paper: *"Analisis Sentimen Ulasan Pengguna Aplikasi Ruangguru Berbasis IndoBERT untuk Evaluasi Kualitas Layanan Pendidikan Digital"*.
+Official repository for the published paper in **Prosiding SENAM 2026: Seminar Nasional Sistem Informasi dan Teknik Informatika Universitas Ma Chung**, Vol. 6 No. 1 (2026), pp. 43–57.
+
+* **Title**: *Analisis Sentimen Ulasan Pengguna Aplikasi Ruangguru Berbasis IndoBERT untuk Evaluasi Kualitas Layanan Pendidikan Digital*
+* **Authors**: Nasywa Salsabiila Romadhona, Dwi Wahyu Prabowo, Nurahman
+* **Publication**: [Prosiding SENAM 2026 (pp. 43–57)](https://ocs.machung.ac.id/index.php/seminarnasionalmachung/article/view/949) · [Full Paper PDF](https://ocs.machung.ac.id/index.php/seminarnasionalmachung/article/view/949/522)
 
 ## Experimental Pipeline
 The research is structured into three sequential notebooks reflecting the iterative methodology:
