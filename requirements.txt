@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+accelerate
+scikit-learn
+imbalanced-learn
+Sastrawi
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+wordcloud
